@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 	int i = 0;
-	printf("hello wordl\n");
+	printf("helloooo wordl\n");
 	
 	for(i = 0; i < argc; i++)
 	{
